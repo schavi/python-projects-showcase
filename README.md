@@ -1,5 +1,5 @@
 
-An assortment of Python projects I've made in the summer of 2023.
+An assortment of Python projects I've made in June, 2023; refactored and uploaded in 2024 april.
 
 ## Procedural galaxy generation
 ### using NumPy and Matplotlib
