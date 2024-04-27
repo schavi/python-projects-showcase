@@ -1,7 +1,7 @@
 
 An assortment of Python projects I've made in the summer of 2023.
 
-## Procedural Galaxy Generation
+## Procedural galaxy generation
 ### using NumPy and Matplotlib
 
 This project procedurally generates a galaxy (spiral, barred or globular) based on celestial mechanics and real-world data on the distribution of stars and planets. It then renders the galaxy on a Matplotlib figure.
