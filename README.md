@@ -11,4 +11,4 @@ This project procedurally generates a galaxy (spiral, barred or globular) based 
 - **names.py** - *contains syllables used to generate star names*
 
 Preview:  
-> ![Spiral galaxy](https://github.com/schavi/python-projects-showcase/assets/35875877/94987cda-bfa6-4774-afd3-51d23f87c8b5) ![Barred galaxy](https://github.com/schavi/python-projects-showcase/assets/35875877/9d1a0e7d-7882-462b-a1c0-d8765c3ed781)
+> ![Spiral galaxy](https://github.com/schavi/python-projects-showcase/blob/main/galaxy-generator/showcase-spiral-4arms.png) ![Barred galaxy](https://github.com/schavi/python-projects-showcase/blob/main/galaxy-generator/showcase-barred.png)
